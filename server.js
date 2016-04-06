@@ -4,7 +4,6 @@ const path = require("path");
 var express = require('express');
 var handlebars = require('express3-handlebars');
 var mongoose = require('mongoose');
-//var mongodb = require('mongodb');
 
 var app = express();
 
