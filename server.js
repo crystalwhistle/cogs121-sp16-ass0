@@ -2,7 +2,7 @@
 const http = require("http");
 const path = require("path");
 var express = require('express');
-var handlebars = require('express3-handlebars');
+var handlebars = require('express-handlebars');
 var mongoose = require('mongoose');
 
 var app = express();
